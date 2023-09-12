@@ -1,6 +1,5 @@
 from torch import nn
 from torch.nn import functional as F
-from torch.nn import MSELoss
 import torch
 import numpy as np
 import random
