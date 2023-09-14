@@ -1,3 +1,1 @@
-## DQN
-
-DRL with torch
+## DRL with torch
